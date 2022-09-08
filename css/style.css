@@ -38,6 +38,11 @@ body {
 #main-menu li a {
     color: #f84636;
     font-family: 'Archivo Black', sans-serif;
+    text-decoration: none;
+}
+
+#main-menu li a:active {
+    text-decoration: underline;
 }
 
 #text {
