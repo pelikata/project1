@@ -1,0 +1,63 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+    background: transparent;
+    font-family: inherit;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a img {
+    border: none;
+  }
+  
+  button,
+  a {
+    cursor: pointer;
+    color: inherit;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
+  button,
+  textarea,
+  select {
+    appearance: none !important;
+    border-radius: 0;
+  }
+
+  button {
+    width: 240px;
+    height: 240px;;
+    background-color: #1C5A4E;
+    border-radius: 120px;
+    color:#FFEEDF ;
+    font-size: 200px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 220px;
+    display: flex;
+    justify-content: center;
+    line-height: ;
+  }
+
+  body {
+    background-color: #FFEEDF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  /* --- end of CSS reset --- */
+  
+
+  
